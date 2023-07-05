@@ -2,3 +2,6 @@
 **/.ipynb_checkpoints
 **/__pycache__
 
+fit_x.npz
+fit_y.npz
+fit_z.npz
